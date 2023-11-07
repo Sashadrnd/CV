@@ -18,3 +18,6 @@ Sasha - Étudiante au Lycée Turgot en BTS SIO
 <li>GitHub</li><br>
 <li>Google Drive</li><br>
 <li>Discord</li><br>
+
+## À propos de moi
+
