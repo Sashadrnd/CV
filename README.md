@@ -21,3 +21,6 @@ Sasha - Étudiante au Lycée Turgot en BTS SIO
 
 ## À propos de moi
 
+[
+https://sashadrnd.github.io/CV/index.html](url)
+
