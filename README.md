@@ -12,4 +12,7 @@ FreeCodeCamp - Basic HTML<br>
 FreeCodeCamp - Basic CSS<br>
 RGPD - CNIL<br>
 Secnum Académie
-
+### Travail d'équipe - Gestion de projet
+GitHub<br>
+Google Drive<br>
+Discord<br>
