@@ -6,6 +6,7 @@ Sasha - Étudiante au Lycée Turgot en BTS SIO
 <li>Anglais - compétence professionnelle</li><br>
 <li>Espagnol - notions</li><br>
 </ul>
+
 ### Certifications
 <ul>
 <li>Packet Tracer - Getting Started with Cisco</li><br>
@@ -16,6 +17,7 @@ Sasha - Étudiante au Lycée Turgot en BTS SIO
 <li>RGPD - CNIL</li><br>
 <li>Secnum Académie</li><br>
 </ul>
+
 ### Travail d'équipe - Gestion de projet
 <ul>
 <li>GitHub</li><br>
