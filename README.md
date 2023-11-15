@@ -6,9 +6,7 @@ Sasha - Étudiante au Lycée Turgot en BTS SIO
 <li>Espagnol - notions</li><br>
 
 ### Certifications
-<li>Packet Tracer - Getting Started with Cisco</li><br>
-<li>Packet Tracer - Exploring Networking with Cisco</li><br>
-<li>Packet Tracer - Exploring IoT with Cisco</li><br>
+<li>Packet Tracer - 
 <li>FreeCodeCamp - Basic HTML</li><br>
 <li>FreeCodeCamp - Basic CSS</li><br>
 <li>RGPD - CNIL</li><br>
@@ -18,6 +16,9 @@ Sasha - Étudiante au Lycée Turgot en BTS SIO
 <li>GitHub</li><br>
 <li>Google Drive</li><br>
 <li>Discord</li><br>
+
+### Compétences technique
+<li>développement html</li>
 
 ## À propos de moi
 
