@@ -1,5 +1,5 @@
 # CV
-Sasha - Étudiante au Lycée Turgot en BTS SIO
+Sasha Durand - Étudiante au Lycée Turgot en BTS SIO
 ## Compétences
 ### Langues
 <li>Anglais - compétence professionnelle</li><br>
