@@ -18,6 +18,10 @@ Sasha Durand - Étudiante au Lycée Turgot en BTS SIO
 <li>Google Drive</li><br>
 <li>Discord</li><br>
 
+### Virtualisation
+<li>Linux</li><br>
+<li>Windows</li><br>
+
 ### Développement
 <li>HTML</li><br>
 <li>CSS</li><br>
