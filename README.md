@@ -4,6 +4,7 @@ Sasha Durand - Étudiante au Lycée Turgot en BTS SIO
 ### Langues
 <li>Anglais - compétence professionnelle</li><br>
 <li>Espagnol - notions</li><br>
+<li>Finnois - en apprentissage</li><br>
 
 ### Certifications
 <li>Packet Tracer - Exam </li><br>
